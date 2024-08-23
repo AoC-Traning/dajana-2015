@@ -1,0 +1,23 @@
+{
+  "name": "dajana-2015",
+  "version": "1.0.0",
+  "description": "AoC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AoC-Traning/dajana-2015.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AoC-Traning/dajana-2015/issues"
+  },
+  "homepage": "https://github.com/AoC-Traning/dajana-2015#readme",
+  "devDependencies": {
+    "@types/node": "^22.2.0",
+    "typescript": "^5.5.4"
+  }
+}
